@@ -49,6 +49,15 @@
       <sub>스터디원</sub>
     </td>
     <td align="center">
+      <a href="https://github.com/mooonu">
+        <img src="https://avatars.githubusercontent.com/u/86511086?v=4" width="100px;" alt="김승현"/>
+        <br />
+        <sub><b>김승현</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/(github ID)">
         <img src="https://avatars.githubusercontent.com/u/(프로필 이미지 링크)?v=4" width="100px;" alt="(이름)"/>
         <br />
