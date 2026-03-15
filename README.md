@@ -58,6 +58,15 @@
       <sub>스터디원</sub>
     </td>
     <td align="center">
+      <a href="https://github.com/dylan-jung">
+        <img src="https://avatars.githubusercontent.com/u/14871563?v=4" width="100px;" alt="정민혁"/>
+        <br />
+        <sub><b>정민혁</b></sub>
+      </a>
+      <br />
+      <sub>스터디원</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/(github ID)">
         <img src="https://avatars.githubusercontent.com/u/(프로필 이미지 링크)?v=4" width="100px;" alt="(이름)"/>
         <br />
